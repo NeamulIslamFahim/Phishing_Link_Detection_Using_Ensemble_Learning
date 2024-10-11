@@ -1,2 +1,2 @@
-# Phishing_Link_Detyection-_USing_MAchine-Learning
+# Phishing_Link_Detyection-_Using_Machine-Learning
 This repository contains code and data for Phishing Link Detection
