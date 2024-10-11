@@ -1,4 +1,4 @@
-# Phishing URL Detection Using Machine Learning
+# Phishing URL Detection Using Ensemble Learning
 
 ## Abstract
 The conflict of having to become safer on the
